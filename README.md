@@ -17,7 +17,8 @@ This project allows you to:
 
 ## 📸 Screenshots
 
-<img src="https://your-screenshot-link.com/todo-home.png" width="600" />
+![image](https://github.com/user-attachments/assets/7374c4d5-4efa-41a9-8076-9d3e79505607)
+
 
 ---
 
